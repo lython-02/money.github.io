@@ -1,0 +1,91 @@
+66666 : Sixty Six Thousand Six Hundred Sixty Six Riel : 16.67 $ : ហុកសិប ប្រាំមួយ ពាន់ ប្រាំមួយ រយ ហុកសិប ប្រាំមួយ រៀល
+1234 : One Thousand Two Hundred Thirty Four Riel : 0.31 $ : មួយ ពាន់ ពីរ រយ សាមសិប បួន រៀល
+10000 : Ten Thousand Riel : 2.50 $ : ដប់ ពាន់ រៀល
+10000 : Ten Thousand Riel : 2.50 $ : ដប់ ពាន់ រៀល
+1223 : One Thousand Two Hundred Twenty Three Riel : 0.31 $ : មួយ ពាន់ ពីរ រយ ម្ភៃ បី រៀល
+100000 : One Hundred Thousand Riel : 25 $ : មួយ រយ ពាន់ រៀល
+10000 : Ten Thousand Riel : 2.50 $ : ដប់ ពាន់ រៀល
+100 : One Hundred Riel : 0.03 $ : មួយ រយ រៀល
+1344 : One Thousand Three Hundred Forty Four Riel : 0.34 $ : មួយ ពាន់ បី រយ សែសិប បួន រៀល
+1344 : One Thousand Three Hundred Forty Four Riel : 0.34 $ : មួយ ពាន់ បី រយ សែសិប បួន រៀល
+1344 : One Thousand Three Hundred Forty Four Riel : 0.34 $ : មួយ ពាន់ បី រយ សែសិប បួន រៀល
+10000 : Ten Thousand Riel : 2.50 $ : ដប់ ពាន់ រៀល
+10000 : Ten Thousand Riel : 2.50 $ : ដប់ ពាន់ រៀល
+10000 : Ten Thousand Riel : 2.50 $ : ដប់ ពាន់ រៀល
+10000 : Ten Thousand Riel : 2.50 $ : ដប់ ពាន់ រៀល
+10000 : Ten Thousand Riel : 2.50 $ : ដប់ ពាន់ រៀល
+10000 : Ten Thousand Riel : 2.50 $ : ដប់ ពាន់ រៀល
+10000 : Ten Thousand Riel : 2.50 $ : ដប់ ពាន់ រៀល
+10000 : Ten Thousand Riel : 2.50 $ : ដប់ ពាន់ រៀល
+10000 : Ten Thousand Riel : 2.50 $ : ដប់ ពាន់ រៀល
+10000 : Ten Thousand Riel : 2.50 $ : ដប់ ពាន់ រៀល
+0 :  Riel : 0 $ :  រៀល
+0 :  Riel : 0 $ :  រៀល
+0 :  Riel : 0 $ :  រៀល
+0 :  Riel : 0 $ :  រៀល
+0 :  Riel : 0 $ :  រៀល
+
+            USD: 111111 → 27.78 $
+            English:  Riel
+            Khmer:  រៀល
+        
+
+            USD: 111111 → 27.78 $
+            English:  Riel
+            Khmer:  រៀល
+        
+
+            USD: 1234 → 0.31 $
+            English:  Riel
+            Khmer:  រៀល
+        
+
+            USD: 227872 → 56.97 $
+            English:  Riel
+            Khmer:  រៀល
+        
+2025-03-28 13:44:46 - 
+            Riel: 227872 → USD: 56.97 $
+            English: Two Hundred Twenty Seven Thousand Eight Hundred Seventy Two Riel
+            Khmer: ពីរ រយ ម្ភៃ ប្រាំពីរ ពាន់ ប្រាំបី រយ ចិតសិប ពីរ រៀល
+        
+2025-03-28 13:45:29 - 
+            Riel: 500 → USD: 0.13 $
+            English: Five Hundred Riel
+            Khmer: ប្រាំ រយ រៀល
+        
+2025-03-28 13:47:20 - 
+            Riel: 500 → USD: 0.13 $
+            English: Five Hundred Riel
+            Khmer: ប្រាំ រយ រៀល
+        
+2025-03-28 13:47:38 - 
+            Riel: 500 → USD: 0.13 $
+            English: Five Hundred Riel
+            Khmer: ប្រាំ រយ រៀល
+        
+2025-03-28 13:49:00 - 
+            Riel: 500 → USD: 0.13 $
+            English: Five Hundred Riel
+            Khmer: ប្រាំ រយ រៀល
+        
+2025-03-28 13:49:31 - 
+            Riel: 500 → USD: 0.13 $
+            English: Five Hundred Riel
+            Khmer: ប្រាំ រយ រៀល
+        
+2025-03-28 13:49:42 - 
+            Riel: 500 → USD: 0.13 $
+            English: Five Hundred Riel
+            Khmer: ប្រាំ រយ រៀល
+        
+2025-03-28 13:49:57 - 
+            Riel: 100 → USD: 0.03 $
+            English: One Hundred Riel
+            Khmer: មួយ រយ រៀល
+        
+2025-03-28 13:51:54 - 
+            Riel: 100 → USD: 0.03 $
+            English: One Hundred Riel
+            លេខខ្មែរ: មួយ រយ រៀល
+        
